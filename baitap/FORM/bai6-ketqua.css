@@ -1,0 +1,50 @@
+.form-bt {
+width: 700px;
+height: 350px;
+margin: 20px auto;
+border: 1px solid black;
+}
+
+.form-bt-title {
+background: pink;
+text-align: center;
+height: 70px;
+}
+
+.form-bt-title h2 {
+line-height: 70px;
+}
+
+.form-tinhtoan {
+padding-top: 20px
+}
+
+.form-group {
+display: flex;
+}
+
+.form-group label {
+min-width: 150px;
+font-weight: bold;
+}
+
+.form-group small {
+color: red;
+}
+
+.submit {
+width: 120px;
+margin-left: 150px;
+}
+
+::-webkit-input-placeholder {
+color: red !important;
+}
+
+.btn-group label {
+font-weight: bold;
+}
+
+a {
+margin-left: 150px;
+}
